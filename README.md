@@ -1,4 +1,3 @@
-**THIS IS JUST A TEST**
 React Intl
 ==========
 
